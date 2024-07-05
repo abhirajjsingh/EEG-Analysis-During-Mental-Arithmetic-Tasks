@@ -20,7 +20,7 @@ This project involves binary classification of EEG data using deep learning mode
 
 ## Dataset
 
-The dataset used in this project is the Mental Arithmetic Tasks Dataset from PhysioNet.
+The dataset used in this project is the Mental Arithmetic Tasks Dataset from PhysioNet[https://physionet.org/content/eegmat/1.0.0/].
 
 ## Prerequisites
 
