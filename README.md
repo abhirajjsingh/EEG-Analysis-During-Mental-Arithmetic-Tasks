@@ -99,10 +99,6 @@ Evaluate the models using the following metrics:
 - **Recall**: Proportion of true positive predictions out of all actual positive instances.
 - **F1-score**: Harmonic mean of precision and recall.
 
-## Results
-
-Present the evaluation metrics for both models.
-
 ## Acknowledgments
 
 - Thanks to the PhysioNet team for providing the Mental Arithmetic Tasks Dataset.
