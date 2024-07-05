@@ -201,3 +201,12 @@ def EEGNet_Model(input_shape):
     model.add(Flatten())
     model.add(Dense(1, activation='sigmoid'))
     return model
+
+
+-- Evaluation Metrics
+Evaluate the models using the following metrics:
+
+Accuracy: Overall correctness of the model’s predictions.
+Precision: Proportion of true positive predictions out of all positive predictions made by the model.
+Recall: Proportion of true positive predictions out of all actual positive instances.
+F1-score: Harmonic mean of precision and recall.
