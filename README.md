@@ -1,7 +1,4 @@
 # EEG-Analysis-During-Mental-Arithmetic-Tasks
-Sure, here's an overview of the instructions without the code:
-
----
 
 # EEG Binary Classification using EEGNet and TSCeption
 
